@@ -1,0 +1,4 @@
+#  file types tom ignore
+*.in
+*.out
+*.pyc
